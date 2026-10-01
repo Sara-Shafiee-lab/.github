@@ -1,4 +1,4 @@
-<p align="center"><img src="lab-banner.svg" alt="Sara Shafiee Lab" width="100%"/></p>
+<p align="center"><a href="#"><img src="lab-banner.svg" alt="Sara Shafiee Lab" width="100%"/></a></p>
 
 <p align="center">
   <b>Research group led by <a href="https://github.com/sara-shaf">Sara Shafiee</a> · Technical University of Denmark (DTU)</b><br/>
