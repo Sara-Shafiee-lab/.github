@@ -19,6 +19,7 @@ We build and evaluate AI for complex engineering and manufacturing problems: age
 
 | Paper | Venue | Code |
 |---|---|---|
+| 🆕 [LLM-Based Agentic AI in Manufacturing: A Scoping Review of Applications, System Designs and Evaluation Practices](https://www.preprints.org/manuscript/202610.2479) | Preprints.org 2026 (preprint) | — |
 | CPJudgeBench: Meta-Evaluation of LLM Judges for Constraint Programming through Solution-Space Semantics | EMNLP 2026 (Main) | [Nastaran95/CPJudgeBench](https://github.com/Nastaran95/CPJudgeBench) |
 | Evaluating Agentic AI Systems in Manufacturing: A Review of Taxonomy, Challenges, and Future Directions | AAIML 2026 | [Nastaran95/manufacturing-agentic-evaluation](https://github.com/Nastaran95/manufacturing-agentic-evaluation) |
 | Agentic Data Analysis for Intelligent Manufacturing: Benchmark-Driven Evaluation of Agentic vs. Direct LLM Approaches | CIRPe 2025 | [Nastaran95/agentic-man-da](https://github.com/Nastaran95/agentic-man-da) |
