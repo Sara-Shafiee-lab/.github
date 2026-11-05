@@ -14,6 +14,8 @@ We build and evaluate AI for complex engineering and manufacturing problems: age
 | Project | Description |
 |---|---|
 | [**RECODE**](https://github.com/Sara-Shafiee-lab/RECODE) | Revolutionizing engineer-to-order companies with deep learning and advanced recommendation systems for product design. Funded by the Independent Research Fund Denmark (DFF); PI: Sara Shafiee |
+| **CLIFF** (Configuration Limits of LLM agents: Finding the Frontier) | How complex a product can become before an LLM agent can no longer configure it correctly without a solver. 🔒 Private · pilot stage |
+| **Manufacturing agent** | Tool-grounded design-for-manufacturing assessment and agent-operated engineering simulation. 🔒 Private · research prototype |
 
 ### 📄 Research code from the lab
 
